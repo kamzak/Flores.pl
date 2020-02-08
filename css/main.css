@@ -124,6 +124,10 @@ h1 {
         height: auto;
         margin: 10px 0;
     }
+
+    .fa {
+        width: 25px;
+    }
     
 }
 
