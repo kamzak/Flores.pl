@@ -109,6 +109,9 @@ h1 {
     .navbar, .dropdown-item {
         text-align: center;
     }
+    .witaj {
+        text-align: center;
+    }
 }
 
 @media (min-width: 576px) and (max-width: 991px) {
