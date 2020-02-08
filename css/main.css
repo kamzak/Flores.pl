@@ -168,6 +168,10 @@ h1 {
     .fa {
         width: 45px;
     }
+
+    .nav-link {
+        margin-right: 0px;
+    }
     
 }
 
