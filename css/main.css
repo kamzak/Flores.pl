@@ -151,12 +151,12 @@ h1 {
     }
     .witaj {
         text-align: center;
-        font-size: 25px;
+        font-size: 20px;
         transition-property: font-size, background-color;
         transition-duration: 1.5s;
     }
     .witaj:hover {
-        font-size: 35px;
+        font-size: 30px;
         background-color: #22b199;
     }
     .ant {
@@ -166,7 +166,7 @@ h1 {
     }
 
     .fa {
-        width: 45px;
+        width: 35px;
     }
 
     .nav-link {
