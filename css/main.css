@@ -111,8 +111,16 @@ h1 {
     }
     .witaj {
         text-align: center;
+        height: 180px;
         font-size: 30px;
+        transition-property: font-size, background-color;
+        transition-duration: 1.5s;
     }
+    .witaj:hover {
+        font-size: 40px;
+        background-color: #22b199;
+    }
+    
 }
 
 @media (min-width: 576px) and (max-width: 991px) {
